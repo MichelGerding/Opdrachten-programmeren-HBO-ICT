@@ -1,0 +1,13 @@
+# als er niks naar het noorden is blijf naar het noorden gaan
+0 x*** -> N 0
+# is er een meur boven is stop en gan naar state 1
+0 N*** -> X 1
+
+# ga naar net oosten tot je een meur tegen komt
+1 *x** -> E 1
+# als je een muur tegen komt ga naar het westen
+1 *E** -> W 2
+# is er niks aan de oost kant dan gaan we daar heen
+2 **x* -> W 2
+# is er een meur aan het westen ga naar beneden 
+2 **W* -> S 1

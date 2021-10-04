@@ -1,0 +1,4 @@
+met de nederlandse taal heb ik niet dat ik me kan herinderen. 
+maar daarintegen ben ik met het programmeren wel tegen dit soort problemen aan gelopen.
+namelijk als ik iets wil doen maar niet ondersteund is(voor bepaalde scope de globals aanpassen).
+daarnaast denk ik dat kunstmatige talen niet makkelijk makkelijk menselijke taal te vormen vanwege de complexiteit van de gemiddele gesproken taal. en de strictheid van de gemiddelde kunstmatige taal 
