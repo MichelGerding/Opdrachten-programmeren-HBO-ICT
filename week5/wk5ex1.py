@@ -27,7 +27,7 @@ def num_to_binary(n):
     else:
         return num_to_binary(n//2) + str(n%2)
 
-assert num_to_binary(0) == '', num_to_binary(0)
+assert num_to_binary(0) == ''
 assert num_to_binary(1) == '1'
 assert num_to_binary(4) == '100'
 assert num_to_binary(10) == '1010'
